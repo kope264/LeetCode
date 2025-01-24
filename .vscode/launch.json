@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Parentheses",
+            "request": "launch",
+            "mainClass": "Parentheses",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "parnthsis",
             "request": "launch",
             "mainClass": "parnthsis",

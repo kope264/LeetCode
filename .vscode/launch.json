@@ -1,0 +1,48 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "parnthsis",
+            "request": "launch",
+            "mainClass": "parnthsis",
+            "projectName": "DSA_dc1649dd"
+        },
+        {
+            "type": "java",
+            "name": "sorting",
+            "request": "launch",
+            "mainClass": "DSA.sorting",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "sorting",
+            "request": "launch",
+            "mainClass": "sorting",
+            "projectName": "DSA_dc1649dd"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "DSA_dc1649dd"
+        },
+        {
+            "type": "java",
+            "name": "binarySearch",
+            "request": "launch",
+            "mainClass": "binarySearch",
+            "projectName": "DSA_dc1649dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "paranthesis",
+            "vmArgs": "--enable-preview -XX:+ShowCodeDetailsInExceptionMessages",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        }
+    ]
+}

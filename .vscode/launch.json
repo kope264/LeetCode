@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SingleInteger",
+            "request": "launch",
+            "mainClass": "SingleInteger",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "Parentheses",
             "request": "launch",
             "mainClass": "Parentheses",

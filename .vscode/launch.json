@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseLinkedList",
+            "request": "launch",
+            "mainClass": "ReverseLinkedList",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "CombinationSum",
             "request": "launch",
             "mainClass": "CombinationSum",

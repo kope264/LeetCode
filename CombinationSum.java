@@ -5,7 +5,7 @@ public class CombinationSum {
    public List<List<Integer>> combinationSum(int[] candidates, int target) {
     List<List<Integer>> result = new ArrayList<>(); // List to store the result
         backtrack(candidates, target, 0, new ArrayList<>(), result);        // Call the backtrack function
-        return result;
+        return result; 
     }
 
     private static void backtrack(int[] candidates, int target, int start, List<Integer> current, List<List<Integer>> result) {     // Function to backtrack

@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubString",
+            "request": "launch",
+            "mainClass": "SubString",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "RotateArray",
             "request": "launch",
             "mainClass": "RotateArray",

@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProductExeptSelf",
+            "request": "launch",
+            "mainClass": "ProductExeptSelf",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "SubString",
             "request": "launch",
             "mainClass": "SubString",

@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestPrefix",
+            "request": "launch",
+            "mainClass": "LongestPrefix",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "MaxSumSubArray",
             "request": "launch",
             "mainClass": "MaxSumSubArray",

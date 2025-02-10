@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClearLeftMost",
+            "request": "launch",
+            "mainClass": "ClearLeftMost",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "LongestPrefix",
             "request": "launch",
             "mainClass": "LongestPrefix",

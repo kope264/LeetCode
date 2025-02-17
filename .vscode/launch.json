@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "jumpMax",
+            "request": "launch",
+            "mainClass": "jumpMax",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "MaxSumPair",
             "request": "launch",
             "mainClass": "MaxSumPair",

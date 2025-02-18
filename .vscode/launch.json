@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TwiceBig",
+            "request": "launch",
+            "mainClass": "TwiceBig",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "jumpMax",
             "request": "launch",
             "mainClass": "jumpMax",

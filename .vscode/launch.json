@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pivotElement",
+            "request": "launch",
+            "mainClass": "pivotElement",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "TwiceBig",
             "request": "launch",
             "mainClass": "TwiceBig",

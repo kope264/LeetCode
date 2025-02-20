@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "String_TO_integerSum",
+            "request": "launch",
+            "mainClass": "String_TO_integerSum",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "pivotElement",
             "request": "launch",
             "mainClass": "pivotElement",

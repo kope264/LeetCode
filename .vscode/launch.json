@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BaseBallGame",
+            "request": "launch",
+            "mainClass": "BaseBallGame",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "String_TO_integerSum",
             "request": "launch",
             "mainClass": "String_TO_integerSum",

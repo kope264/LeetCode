@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IntegerYoRoman",
+            "request": "launch",
+            "mainClass": "IntegerYoRoman",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "BaseBallGame",
             "request": "launch",
             "mainClass": "BaseBallGame",

@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Keyboard",
+            "request": "launch",
+            "mainClass": "Keyboard",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "IntegerYoRoman",
             "request": "launch",
             "mainClass": "IntegerYoRoman",

@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TwoSumII",
+            "request": "launch",
+            "mainClass": "TwoSumII",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
+            "name": "RotateArray",
+            "request": "launch",
+            "mainClass": "leetcode.RotateArray",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "IfEqualsInOneSwap",
+            "request": "launch",
+            "mainClass": "IfEqualsInOneSwap",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStringWords",
+            "request": "launch",
+            "mainClass": "ReverseStringWords",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "Keyboard",
             "request": "launch",
             "mainClass": "Keyboard",

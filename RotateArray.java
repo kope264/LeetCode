@@ -1,3 +1,5 @@
+
+
 public class RotateArray {
 
     public static void rotate(int[] nums, int k) { // Function to rotate the array

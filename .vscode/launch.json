@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Rotate_array1",
+            "request": "launch",
+            "mainClass": "Rotate_array1",
+            "projectName": "LeetCode_87b928aa"
+        },
+        {
+            "type": "java",
             "name": "happy_numbers",
             "request": "launch",
             "mainClass": "happy_numbers",
